@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **juerock/juerock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm juerock.
+
+## 💻 Computer Skills
+
+![Computer Skills](https://skillicons.dev/icons?i=ai,pr,ps,html,css,py&perline=3)
